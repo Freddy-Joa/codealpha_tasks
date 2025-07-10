@@ -1,5 +1,3 @@
-# Intermediate chatbot with improved handling
-
 def chatbot():
     print("Warm welcome !!! \n lets start the conversation ...\n type hello to start \n Type 'help' for options or 'bye' to exit.")
 
